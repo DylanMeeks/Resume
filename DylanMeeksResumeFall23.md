@@ -1,5 +1,5 @@
 ### Dylan Meeks
-(949) 547-7650 | <dylan.meeks@icloud.com> | linkedin.com/in/dylan-meeks
+Austin, TX | (949) 547-7650 | <dylan.meeks@icloud.com> | linkedin.com/in/dylan-meeks
 
 #### Education
 ---
@@ -9,12 +9,20 @@ The University of Texas at Austin
 GPA: 3.76/4.0  
 Organizations: IEEE (2022 - Present)
 
+#### Skills
+---
+- Programming: **C**, **C++**, **ARM Assembly**, **Python**, **Rust**, **Java**, **Git**, **Markdown**
+- Hardware: **Ti TM4C**, **Rasberry Pi**, **Arduino**
+- Modeling and Design: **SolidWorks**, **KiCAD**, **Autodesk EAGLE**, **LTSpice**
+- Strong team and communication skills
+- Language: Conversationally fluent in Mandarin
+
 #### Projects
 ---
 **Gallaga Inspired Arcade Game Implemented on Microcontroller (April 2023)**
-- Collaborated with team to create sprites, music, logic, and controls using C 
-and ARM Assembly to create a rendition of the classic arcade game Gallaga
-- Designed a custom PCB using Autodesk EAGLE to interface a Ti TM4C with potentiometers, 
+- Collaborated with team to create sprites, music, logic, and controls using **C** 
+and **ARM Assembly** to create a rendition of the classic arcade game Gallaga
+- Designed a custom PCB using **Autodesk EAGLE** to interface a Ti TM4C with potentiometers, 
 an LCD screen using the SPI protocol, a 6-bit DAC connected to both a speaker and 3.5 mm audio jack for sound
 
 **Solar-Powered Motor (December 2022)**
@@ -35,16 +43,16 @@ competition to push or flip an opponent robot out of a ring
 - Interfaced with IR remotes on two separate microcontrollers, gyroscopes, 
 accelerometers, and buttons to control our own robot as well as hijack the opposing team’s  
 
+#### Coursework
+---
+Circuit Theory, Digital Logic Design, Linear Systems and Signals, Intro to Embeded Systems, 
+
 #### Experience
 ---
-**Intern at HydroFrame Project at Princeton University, Prof. Reed Maxwell (May-Aug. 2021)**
+**Intern at HydroFrame Project at Princeton University, Prof. Reed Maxwell (May-Aug. 2021)**, Remote
 - Helped implement groundwater flow modeling using Python
-**Intern at University of California, Irvine, Prof. Nadar Bagherzadeh (June-Aug. 2021)**
+
+**Intern at University of California, Irvine, Prof. Nadar Bagherzadeh (June-Aug. 2021)**, Remote
 - Created machine learning powered flower classification tool using Python library pytorch
 
-#### Skills
----
-- Programming: **C**, **C++**, **Rust**, **ARM Assembly**, **Java**, **Python**, **Git**
-- Modeling and Design: **SolidWorks**, **KiCAD**, **Autodesk EAGLE**, **LTSpice**
-- Strong team and communication skills
-- Language: Conversationally fluent in Mandarin
+
