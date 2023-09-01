@@ -1,5 +1,5 @@
 ### Dylan Meeks
-Austin, TX | (949) 547-7650 | <dylan.meeks@icloud.com> | linkedin.com/in/dylan-meeks
+Austin, TX | (949) 547-7650 | <dylan.meeks@icloud.com> | <https://www.linkedin.com/in/dylan-meeks-93159a24b>
 
 #### Education
 ---
@@ -7,7 +7,8 @@ Austin, TX | (949) 547-7650 | <dylan.meeks@icloud.com> | linkedin.com/in/dylan-m
 Cockrell School of Engineering
 The University of Texas at Austin  
 GPA: 3.76/4.0  
-Organizations: IEEE (2022 - Present)
+Organizations: IEEE (2022 - Present)  
+Relevant Coursework: Circuit Theory, Digital Logic Design, Linear Systems and Signals, Intro to Embedded Systems  
 
 #### Skills
 ---
@@ -43,11 +44,7 @@ competition to push or flip an opponent robot out of a ring
 - Interfaced with IR remotes on two separate microcontrollers, gyroscopes, 
 accelerometers, and buttons to control our own robot as well as hijack the opposing team’s  
 
-#### Coursework
----
-Circuit Theory, Digital Logic Design, Linear Systems and Signals, Intro to Embeded Systems, 
-
-#### Experience
+#### Other Experience
 ---
 **Intern at HydroFrame Project at Princeton University, Prof. Reed Maxwell (May-Aug. 2021)**, Remote
 - Helped implement groundwater flow modeling using Python
