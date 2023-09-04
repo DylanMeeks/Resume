@@ -12,7 +12,7 @@ Relevant Coursework: Circuit Theory, Digital Logic Design, Linear Systems and Si
 
 #### Skills
 ---
-- Programming: **C**, **C++**, **ARM Assembly**, **Python**, **Rust**, **Java**, **Git**, **Markdown**
+- Programming: **C**, **C++**, **ARM Assembly**, Familiar with **Unix and Linux Operating systems**, **Python**, **Rust**, **Java**, **Git**, **Markdown**
 - Hardware: **Ti TM4C**, **Rasberry Pi**, **Arduino**
 - Modeling and Design: **SolidWorks**, **KiCAD**, **Autodesk EAGLE**, **LTSpice**
 - Strong team and communication skills
