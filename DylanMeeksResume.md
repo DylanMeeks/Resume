@@ -1,7 +1,7 @@
 ### Dylan Meeks
 Austin, TX | (949) 547-7650 | <dylan.meeks@icloud.com> | <https://www.linkedin.com/in/dylan-meeks-93159a24b>
 
-#### Education
+##### Education
 ---
 **B.S. Electrical and Computer Engineering, May 2026**  
 Cockrell School of Engineering
@@ -10,7 +10,7 @@ GPA: 3.76/4.0
 Organizations: IEEE (2022 - Present)  
 Relevant Coursework: Circuit Theory, Digital Logic Design, Linear Systems and Signals, Intro to Embedded Systems  
 
-#### Skills
+##### Skills
 ---
 - Programming: **C**, **C++**, **ARM Assembly**, Familiar with **Unix and Linux Operating systems**, **Python**, **Rust**, **Java**, **Git**, **Markdown**
 - Hardware: **Ti TM4C**, **Rasberry Pi**, **Arduino**
@@ -18,7 +18,7 @@ Relevant Coursework: Circuit Theory, Digital Logic Design, Linear Systems and Si
 - Strong team and communication skills
 - Language: Conversationally fluent in Mandarin
 
-#### Projects
+##### Projects
 ---
 **Gallaga Inspired Arcade Game Implemented on Microcontroller (April 2023)**
 - Collaborated with team to create sprites, music, logic, and controls using **C** 
@@ -44,7 +44,7 @@ competition to push or flip an opponent robot out of a ring
 - Interfaced with IR remotes on two separate microcontrollers, gyroscopes, 
 accelerometers, and buttons to control our own robot as well as hijack the opposing team’s  
 
-#### Other Experience
+##### Other Experience
 ---
 **Intern at HydroFrame Project at Princeton University, Prof. Reed Maxwell (May-Aug. 2021)**, Remote
 - Helped implement groundwater flow modeling using Python
