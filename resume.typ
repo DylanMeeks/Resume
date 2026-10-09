@@ -3,7 +3,7 @@
 // Put your personal information here, replacing mine
 #let name = "Dylan C. Meeks"
 #let location = ""
-#let email = "dylan.meeks@icloud.com"
+#let email = "dylanm@illinois.edu"
 #let github = "github.com/DylanMeeks"
 #let linkedin = "linkedin.com/in/dylan-c-meeks"
 // #let phone = "+1 (xxx) xxx-xxxx"
@@ -34,6 +34,10 @@
  * #generic-one-by-two(left: "", right: "")
  */
 
+== Research Interests
+Computer Architecture; Heterogeneous Systems; Memory & Storage Systems;
+Processing-in-Memory; Operating Systems; Programming Models
+
 == Education
 
 #edu(
@@ -42,7 +46,7 @@
   dates: dates-helper(start-date: "August 2026", end-date: "Present"),
   degree: "Ph.D. Computer Science",
 )
-- Beginning August 2026 I will be working with #link("https://ghose.web.illinois.edu/")[Prof. Saugata Ghose] at the University of Illinois focusing on Computer Architecture for emerging domains such as Processing-Using-Memory
+- I  work with #link("https://ghose.web.illinois.edu/")[Prof. Saugata Ghose] at the University of Illinois focusing on Computer Architecture for emerging domains such as Processing-Using-Memory
 
 #edu(
   institution: "University of Texas at Austin",
@@ -54,6 +58,15 @@
 - Relevant Coursework: Computer Architecture, Compilers, Operating Systems, Hardware Design Languages, Digital Logic Design, Programming Paradigms, Embedded Systems Laboratory, Algorithms, Probability and Random Processes
 
 == Work Experience
+
+#work(
+  title: "Teaching Assistant, CS 233",
+  location: "",
+  company: "University of Illinois, Urbana-Champaign",
+  dates: dates-helper(start-date: "August 2026", end-date: "December 2026"),
+)
+- Helped run flipped classroom in-class assignments and grading
+- Coordinate undergraduate course assistants to create course final project
 
 #work(
   title: "Research Intern, Arcana Research Lab",
