@@ -65,8 +65,11 @@ Processing-in-Memory; Operating Systems; Programming Models
   company: "University of Illinois, Urbana-Champaign",
   dates: dates-helper(start-date: "August 2026", end-date: "December 2026"),
 )
-- Helped run flipped classroom in-class assignments and grading
-- Coordinate undergraduate course assistants to create course final project
+- Led development of SPIMbot, the course’s semester-long programming competition, directing a team of 4 undergraduate TAs through game design, implementation, testing, and release to 250+ students
+- Enforced academic integrity on labs and assignments, reviewing submissions, and reporting cases to the instructor
+- Supported accessibility efforts by tracking course materials that needed improvement and helping make content accessible to all students
+- Provided weekly student support through 4 hours of office hours and the course
+  Discord, helping students debug code and understand key topics, e.g., MIPS assembly, digital logic, verilog, etc.
 
 #work(
   title: "Research Intern, Arcana Research Lab",
